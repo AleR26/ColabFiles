@@ -1,6 +1,2 @@
 # ColabFiles
-En esta practica se extrae información de la cadena X-DSPAM-Confidence, y con la información extraida,  sacamos:
--La cantidad de datos encontrados.
--La sumatoria de todos los datos extraídos.
--El promedio de los datos.
--La varianza de los datos.
+En esta practica utilizamos Expresiones Regulares para sacar informacion del archivo informe_acciones.txt y poder crear un analisis estadisticos de los valores, utilizando la libreria re. Tambien le dimos formato a nuestros resultados utilizando la libreria de Pandas.
